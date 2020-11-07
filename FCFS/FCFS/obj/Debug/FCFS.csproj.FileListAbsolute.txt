@@ -1,0 +1,9 @@
+C:\Users\Tristan\source\repos\FCFS\FCFS\bin\Debug\FCFS.exe.config
+C:\Users\Tristan\source\repos\FCFS\FCFS\bin\Debug\FCFS.exe
+C:\Users\Tristan\source\repos\FCFS\FCFS\bin\Debug\FCFS.pdb
+C:\Users\Tristan\source\repos\FCFS\FCFS\obj\Debug\FCFS.csprojAssemblyReference.cache
+C:\Users\Tristan\source\repos\FCFS\FCFS\obj\Debug\FCFS.Form1.resources
+C:\Users\Tristan\source\repos\FCFS\FCFS\obj\Debug\FCFS.Properties.Resources.resources
+C:\Users\Tristan\source\repos\FCFS\FCFS\obj\Debug\FCFS.csproj.GenerateResource.cache
+C:\Users\Tristan\source\repos\FCFS\FCFS\obj\Debug\FCFS.exe
+C:\Users\Tristan\source\repos\FCFS\FCFS\obj\Debug\FCFS.pdb
